@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dea Meilani</h1>
 <h3 align="center">A passionate Android Developer and UX Design</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 
 - 📫 How to reach me **deameilani2022@gmail.com**
 
